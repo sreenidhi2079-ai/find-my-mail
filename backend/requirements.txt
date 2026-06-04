@@ -1,0 +1,12 @@
+fastapi
+uvicorn
+sqlmodel
+psycopg2-binary
+google-auth
+google-auth-oauthlib
+google-auth-httplib2
+google-api-python-client
+python-dotenv
+python-multipart
+pydantic-settings
+dateparser
